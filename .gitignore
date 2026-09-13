@@ -1,0 +1,16 @@
+/build/
+/Release/
+*.log
+/.local/
+
+
+*LICENSE*
+*license*
+*License*
+*NOTICE*
+*notice*
+*Notice*
+THIRD_PARTY_NOTICES*
+third_party_notices*
+ThirdPartyNotices*
+
