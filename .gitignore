@@ -1,5 +1,9 @@
 /build/
-/Release/
+/Release/*
+!/Release/KHARVOX Intro.nfo
+!/Release/Quest/
+/Release/Quest/*
+!/Release/Quest/KHARVOX Intro.nfo
 *.log
 /.local/
 
